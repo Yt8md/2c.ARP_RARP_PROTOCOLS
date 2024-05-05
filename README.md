@@ -48,9 +48,10 @@ while True:
 
 ```
 
-## OUPUT - ARP:
+## OUTPUT - ARP:
 
-![alt text](image.png)
+![image](https://github.com/Yt8md/2c.ARP_RARP_PROTOCOLS/assets/144443644/14daa2e3-c0e2-426a-8816-aec8a0ffcbca)
+
 
 <br>
 
@@ -89,9 +90,10 @@ while True:
 ```
 
 
-## OUPUT -RARP
+## OUTPUT -RARP
 
-![alt text](image-1.png)
+![image](https://github.com/Yt8md/2c.ARP_RARP_PROTOCOLS/assets/144443644/836bc579-178d-4dd3-8140-a0606d86e3af)
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
